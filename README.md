@@ -67,6 +67,7 @@ Prefer rails that let a one-person shop sell globally without inventing tax soft
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) — Merchant of record for digital goods. Fine when tax compliance is the bottleneck.
 - [Gumroad](https://gumroad.com/) — Fastest path for a file or a course. Ugly on purpose. Ships.
 - [Paddle](https://www.paddle.com/) — MoR for software when you outgrow the first checkout.
+- [AgentaOS](https://agentaos.ai/) — Merchant of record that sells for you in its own name and pays out to 85+ countries, including many where Stripe is not available; its MCP server lets an agent create products and checkout links.
 - [Teachers Pay Teachers](https://www.teacherspayteachers.com/) — Existing marketplace. Worse margins, real buyers already standing there.
 - [Kindle Direct Publishing](https://kdp.amazon.com/) — Same idea for short books and series.
 
